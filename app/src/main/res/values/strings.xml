@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirthdayApp</string>
+    <string name="hint_enter_birthdate">Enter your birthdate</string>
+    <string name="label_birthdate">Your birthdate will appear here</string>
+    <string name="button_convert">Convert to Base64</string>
+    <string name="content_desc_birthday_cake">Birthday Cake</string>
+</resources>
